@@ -66,5 +66,3 @@ Created by:
 
 Instructor: 
 [Sebastian Tegel](https://github.com/sebastiantegel)
-
-test för push :) 
